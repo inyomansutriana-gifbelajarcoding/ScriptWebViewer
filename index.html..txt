@@ -7,6 +7,3 @@
 <h1>Selamat datang di halaman web pertamaku!</h1>
 </body>
 </html>
-
-
-
